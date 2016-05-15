@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "name": "Centos Web Panel",
+  "description": "Centos Web Panel module!",
+  "authors": [
+    {
+      "name": "César Araújo @ Virtual2.",
+      "url": "http://www.Virtual2.net"
+    }
+  ],
+  "service": {
+    "name_key": "cwpmodule"
+  },
+  "module": {
+    "row": "Register Account",
+    "rows": "Register Accounts",
+    "group": "Register Accounts",
+    "row_key": "cwpmodulerow"
+  }
+}
